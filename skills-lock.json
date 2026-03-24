@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "roblox-game-development": {
+      "source": "greedychipmunk/agent-skills",
+      "sourceType": "github",
+      "computedHash": "c375f1ad29529e45682c88fc4638708b6cde199211c2a8b50fb23304cc32815a"
+    },
+    "rojo-pro": {
+      "source": "dig1t/skills",
+      "sourceType": "github",
+      "computedHash": "1974a5515018dd7a4fd8215ffd787539616d4f75c4b52ee8016cbc8e5d2e93b4"
+    }
+  }
+}
